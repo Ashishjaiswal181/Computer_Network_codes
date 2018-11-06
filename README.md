@@ -4,4 +4,6 @@ The codes include one dimentional and two dimentional _Parity check, Priority an
 
 Code for *distance vector algorith* added that gives the routing table for all the nodes.
 
+Code for ARQ mechanism like *Stop-and-wait, Go-Back-N and Selective* Repeat added.
+
 ##### This repository will include codes executed my me on network related problems only.
