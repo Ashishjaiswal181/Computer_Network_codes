@@ -6,4 +6,10 @@ Code for *distance vector algorith* added that gives the routing table for all t
 
 Code for ARQ mechanism like *Stop-and-wait, Go-Back-N and Selective* Repeat added.
 
+Code for implementation of *Banker's Algorithm* to avoid *deadlock* added.
+
+Code for memory allocation algorithms (*Best Fit, Worst Fit and First Fit*) added.
+
+Code for *Socket programming* added which includes both the server and client side code.
+
 ##### This repository will include codes executed my me on network related problems only.
